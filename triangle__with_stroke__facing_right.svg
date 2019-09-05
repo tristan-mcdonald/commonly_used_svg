@@ -1,0 +1,7 @@
+<svg
+class="triangle__with_stroke__facing_right"
+viewBox="0 0 112.44 144"
+xmlns="http://www.w3.org/2000/svg">
+    <title>outlined triangle facing right</title>
+    <path d="M3,5.48,106.88,72,3,138.52V5.48M0,0V144L112.44,72,0,0Z"/>
+</svg><!-- .triangle__with_stroke__facing_right -->
